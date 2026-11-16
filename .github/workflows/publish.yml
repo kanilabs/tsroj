@@ -45,7 +45,7 @@ jobs:
           if [ -z "$NODE_AUTH_TOKEN" ]; then
             echo "::error::NPM_TOKEN repository secret is missing."
             echo "Create an Automation token at https://www.npmjs.com/settings/~/tokens"
-            echo "then run: gh secret set NPM_TOKEN --repo 0xdolan/tsroj"
+            echo "then run: gh secret set NPM_TOKEN --repo kanilabs/tsroj"
             exit 1
           fi
           npm whoami

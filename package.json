@@ -24,12 +24,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/0xdolan/tsroj.git"
+    "url": "git+https://github.com/kanilabs/tsroj.git"
   },
   "bugs": {
-    "url": "https://github.com/0xdolan/tsroj/issues"
+    "url": "https://github.com/kanilabs/tsroj/issues"
   },
-  "homepage": "https://github.com/0xdolan/tsroj#readme",
+  "homepage": "https://github.com/kanilabs/tsroj#readme",
   "keywords": [
     "kurdish",
     "calendar",
