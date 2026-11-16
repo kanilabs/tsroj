@@ -10,8 +10,8 @@
 [![License: GPL-3.0](https://img.shields.io/badge/License-GPL--3.0-blue.svg)](LICENSE)
 
 - **Package**: [@0xdolan/tsroj on npm](https://www.npmjs.com/package/@0xdolan/tsroj)
-- **Repository**: [github.com/0xdolan/tsroj](https://github.com/0xdolan/tsroj)
-- **Live demo**: [0xdolan.github.io/tsroj](https://0xdolan.github.io/tsroj/)
+- **Repository**: [github.com/kanilabs/tsroj](https://github.com/kanilabs/tsroj)
+- **Live demo**: [kanilabs.github.io/tsroj](https://kanilabs.github.io/tsroj/)
 - **Year range**: `1..9999` (aligned with native limits)
 - **Week start**: Saturday (Kurdish / Persian convention)
 
@@ -147,15 +147,15 @@ cd demo && npm install && npm run dev
 
 Open **http://localhost:5173/tsroj/** — live clock, four calendar systems, searchable timezone picker, locale variants, Sorani grammar toggles, and copyable examples.
 
-Deployed at **https://0xdolan.github.io/tsroj/**.
+Deployed at **https://kanilabs.github.io/tsroj/**.
 
 <p align="center">
-  <a href="https://0xdolan.github.io/tsroj/">
+  <a href="https://kanilabs.github.io/tsroj/">
     <img src="assets/demo-screenshot.png" alt="tsroj interactive demo — click to open live site" width="100%" />
   </a>
 </p>
 
-<p align="center"><sub>To embed on your own site (after deploy), use:<br><code>&lt;iframe src="https://0xdolan.github.io/tsroj/" title="tsroj demo" width="100%" height="820" loading="lazy"&gt;&lt;/iframe&gt;</code></sub></p>
+<p align="center"><sub>To embed on your own site (after deploy), use:<br><code>&lt;iframe src="https://kanilabs.github.io/tsroj/" title="tsroj demo" width="100%" height="820" loading="lazy"&gt;&lt;/iframe&gt;</code></sub></p>
 
 ## Development
 
